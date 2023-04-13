@@ -37,7 +37,22 @@
 
 9. Design a restaurant ordering system. 
            
-- Draw a list of key requirements
+- Draw a list of key requirements:
+
+  -   Menu display
+  -  Order placement system that also allows the user to edit, modify and add requests.
+    - Payment system (that accepts debit/credit card, google/apple pay, paypal, etc. -> Stripe for example).
+    - Order tracking system to check the status of the user's order/delivery.
+    -  Feedback system to rate the restaurant and delivery process.
+
 - What are your main considerations and problems?
+  - Enabling secure transactions and protecting user data.
+  -  Ensuring that the system can handle high demand/value of orders.
+    - Usability, User Experience and Accessibility.
+  
 - What components or tools would you potentially use? 
+  - POS for order tracking and inventory management such as Adyen and Salesforce.
+  - A third-party system for gift cards and loyalty programs such as Givex.
+  - Customer feedback tool such as SurveyMonkey or Typeform.
+  - Google Analytics for insights into the performance of the system's website and app. 
 
