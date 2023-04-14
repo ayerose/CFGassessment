@@ -17,7 +17,7 @@ print(isogram("uncopyrightable"))
 
 
 """
-    Python Challenge
+ Python Challenge
     
     You are tasked with calculating the minimum classes we need to have so we know how many people to employ. 
     Write a function which when 
